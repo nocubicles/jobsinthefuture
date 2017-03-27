@@ -1,0 +1,2806 @@
+
+{
+  "data":
+[
+ {
+   "className": "Recreational  Therapists,",
+   "value": "0.0028"
+ },
+ {
+   "className": "First-Line Supervisors of Mechanics, Installers, and Repairers,",
+   "value": "0.003"
+ },
+ {
+   "className": "Emergency Management Directors,",
+   "value": "0.003"
+ },
+ {
+   "className": "Mental Health and Substance  Abuse Social Workers,",
+   "value": "0.0031"
+ },
+ {
+   "className": "Audiologists,",
+   "value": "0.0033"
+ },
+ {
+   "className": "Occupational Therapists,",
+   "value": "0.0035"
+ },
+ {
+   "className": "Orthotists and Prosthetists,",
+   "value": "0.0035"
+ },
+ {
+   "className": "Healthcare Social Workers,",
+   "value": "0.0035"
+ },
+ {
+   "className": "Oral and Maxillofacial  Surgeons,",
+   "value": "0.0036"
+ },
+ {
+   "className": "First-Line Supervisors of Fire Fighting and Prevention  Workers,",
+   "value": "0.0036"
+ },
+ {
+   "className": "Dietitians and Nutritionists,",
+   "value": "0.0039"
+ },
+ {
+   "className": "Lodging Managers,",
+   "value": "0.0039"
+ },
+ {
+   "className": "Choreographers,",
+   "value": "0.004"
+ },
+ {
+   "className": "Sales Engineers,",
+   "value": "0.0041"
+ },
+ {
+   "className": "Physicians and Surgeons,",
+   "value": "0.0042"
+ },
+ {
+   "className": "Instructional  Coordinators,",
+   "value": "0.0042"
+ },
+ {
+   "className": "Psychologists, All Other,",
+   "value": "0.0043"
+ },
+ {
+   "className": "First-Line Supervisors of Police and Detectives,",
+   "value": "0.0044"
+ },
+ {
+   "className": "Dentists, General,",
+   "value": "0.0044"
+ },
+ {
+   "className": "Elementary School Teachers, Except Special Education,",
+   "value": "0.0044"
+ },
+ {
+   "className": "Medical Scientists, Except Epidemiologists,",
+   "value": "0.0045"
+ },
+ {
+   "className": "Education  Administrators, Elementary and Secondary School,",
+   "value": "0.0046"
+ },
+ {
+   "className": "Podiatrists,",
+   "value": "0.0046"
+ },
+ {
+   "className": "Clinical, Counseling, and School Psychologists,",
+   "value": "0.0047"
+ },
+ {
+   "className": "Mental Health Counselors,",
+   "value": "0.0048"
+ },
+ {
+   "className": "Fabric and Apparel  Pattemmakers,",
+   "value": "0.0049"
+ },
+ {
+   "className": "Set and Exhibit Designers,",
+   "value": "0.0055"
+ },
+ {
+   "className": "Human Resources Managers,",
+   "value": "0.0055"
+ },
+ {
+   "className": "Recreation  Workers,",
+   "value": "0.0061"
+ },
+ {
+   "className": "Training and Development  Managers,",
+   "value": "0.0063"
+ },
+ {
+   "className": "Speech-Language Pathologists,",
+   "value": "0.0064"
+ },
+ {
+   "className": "Computer Systems Analysts,",
+   "value": "0.0065"
+ },
+ {
+   "className": "Social and Community Service Managers,",
+   "value": "0.0067"
+ },
+ {
+   "className": "Curators,",
+   "value": "0.0068"
+ },
+ {
+   "className": "Athletic Trainers,",
+   "value": "0.0071"
+ },
+ {
+   "className": "Medical  and Health Services Managers,",
+   "value": "0.0073"
+ },
+ {
+   "className": "Preschool Teachers, Except Special  Education,",
+   "value": "0.0074"
+ },
+ {
+   "className": "Farm and Home Management  Advisors,",
+   "value": "0.0075"
+ },
+ {
+   "className": "Anthropologists and Archeologists,",
+   "value": "0.0077"
+ },
+ {
+   "className": "Special Education Teachers, Secondary School,",
+   "value": "0.0077"
+ },
+ {
+   "className": "Secondary School Teachers, Except Special and Career/fechnical Edu- cation,",
+   "value": "0.0078"
+ },
+ {
+   "className": "Clergy,",
+   "value": "0.0081"
+ },
+ {
+   "className": "Foresters,",
+   "value": "0.0081"
+ },
+ {
+   "className": "Educational, Guidance, School, and Vocational Counselors,",
+   "value": "0.0085"
+ },
+ {
+   "className": "Career/fechnical Education Teachers, Secondary School,",
+   "value": "0.0088"
+ },
+ {
+   "className": "Registered  Nurses,",
+   "value": "0.009"
+ },
+ {
+   "className": "Rehabilitation Counselors,",
+   "value": "0.0094"
+ },
+ {
+   "className": "Teachers and Instructors, All Other,",
+   "value": "0.0095"
+ },
+ {
+   "className": "Forensic Science Technicians,",
+   "value": "0.0095"
+ },
+ {
+   "className": "Makeup Artists, Theatrical and Performance,",
+   "value": "0.01"
+ },
+ {
+   "className": "Marine Engineers and Naval Architects,",
+   "value": "0.01"
+ },
+ {
+   "className": "Education  Administrators, Postsecondary,",
+   "value": "0.01"
+ },
+ {
+   "className": "Mechanical  Engineers,",
+   "value": "0.011"
+ },
+ {
+   "className": "Pharmacists,",
+   "value": "0.012"
+ },
+ {
+   "className": "Logisticians,",
+   "value": "0.012"
+ },
+ {
+   "className": "Microbiologists,",
+   "value": "0.012"
+ },
+ {
+   "className": "Industrial-Organizational Psychologists,",
+   "value": "0.012"
+ },
+ {
+   "className": "Coaches and Scouts,",
+   "value": "0.013"
+ },
+ {
+   "className": "Sales Managers,",
+   "value": "0.013"
+ },
+ {
+   "className": "Hydrologists,",
+   "value": "0.014"
+ },
+ {
+   "className": "Marketing Managers,",
+   "value": "0.014"
+ },
+ {
+   "className": "Marriage and Family Therapists,",
+   "value": "0.014"
+ },
+ {
+   "className": "Engineers, All Other,",
+   "value": "0.014"
+ },
+ {
+   "className": "Training and Development  Specialists,",
+   "value": "0.014"
+ },
+ {
+   "className": "First-Line Supervisors of Office and Administrative Support Workers,",
+   "value": "0.014"
+ },
+ {
+   "className": "Biological Scientists, All Other,",
+   "value": "0.015"
+ },
+ {
+   "className": "Public Relations  and Fundraising Managers,",
+   "value": "0.015"
+ },
+ {
+   "className": "Multimedia  Artists and Animators,",
+   "value": "0.015"
+ },
+ {
+   "className": "Computer and Information  Research Scientists,",
+   "value": "0.015"
+ },
+ {
+   "className": "Chief Executives,",
+   "value": "0.015"
+ },
+ {
+   "className": "Education  Administrators, Preschool and Childcare Center/Program,",
+   "value": "0.015"
+ },
+ {
+   "className": "Music Directors and Composers,",
+   "value": "0.015"
+ },
+ {
+   "className": "First-Line Supervisors of Production  and Operating  Workers,",
+   "value": "0.016"
+ },
+ {
+   "className": "Securities,  Commodities,  and Financial Services Sales Agents,",
+   "value": "0.016"
+ },
+ {
+   "className": "Conservation  Scientists,",
+   "value": "0.016"
+ },
+ {
+   "className": "Special  Education Teachers, Middle School,",
+   "value": "0.016"
+ },
+ {
+   "className": "Chemical Engineers,",
+   "value": "0.017"
+ },
+ {
+   "className": "Architectural  and Engineering Managers,",
+   "value": "0.017"
+ },
+ {
+   "className": "Aerospace Engineers,",
+   "value": "0.017"
+ },
+ {
+   "className": "Natural Sciences Managers,",
+   "value": "0.018"
+ },
+ {
+   "className": "Environmental  Engineers,",
+   "value": "0.018"
+ },
+ {
+   "className": "Architects,  Except Landscape and Naval,",
+   "value": "0.018"
+ },
+ {
+   "className": "Physical Therapist Assistants,",
+   "value": "0.018"
+ },
+ {
+   "className": "Civil Engineers,",
+   "value": "0.019"
+ },
+ {
+   "className": "Health Diagnosing and Treating Practitioners, All Other,",
+   "value": "0.02"
+ },
+ {
+   "className": "Soil and Plant Scientists,",
+   "value": "0.021"
+ },
+ {
+   "className": "Materials Scientists,",
+   "value": "0.021"
+ },
+ {
+   "className": "Materials Engineers,",
+   "value": "0.021"
+ },
+ {
+   "className": "Fashion Designers,",
+   "value": "0.021"
+ },
+ {
+   "className": "Physical Therapists,",
+   "value": "0.021"
+ },
+ {
+   "className": "Photographers,",
+   "value": "0.021"
+ },
+ {
+   "className": "Producers and Directors,",
+   "value": "0.022"
+ },
+ {
+   "className": "Interior Designers,",
+   "value": "0.022"
+ },
+ {
+   "className": "Orthodontists,",
+   "value": "0.023"
+ },
+ {
+   "className": "Art Directors,",
+   "value": "0.023"
+ },
+ {
+   "className": "First-Line Supervisors of Correctional  Officers,",
+   "value": "0.025"
+ },
+ {
+   "className": "Directors, Religious Activities  and Education,",
+   "value": "0.025"
+ },
+ {
+   "className": "Electronics  Engineers, Except Computer,",
+   "value": "0.025"
+ },
+ {
+   "className": "Biochemists  and Biophysicists,",
+   "value": "0.027"
+ },
+ {
+   "className": "Chiropractors,",
+   "value": "0.027"
+ },
+ {
+   "className": "Occupational  Therapy Assistants,",
+   "value": "0.028"
+ },
+ {
+   "className": "Child, Family, and School Social Workers,",
+   "value": "0.028"
+ },
+ {
+   "className": "Health and Safety  Engineers, Except Mining Safety  Engineers  and Insceptors,",
+   "value": "0.028"
+ },
+ {
+   "className": "Industrial Engineers,",
+   "value": "0.029"
+ },
+ {
+   "className": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,",
+   "value": "0.029"
+ },
+ {
+   "className": "Veterinary Technologists  and Technicians,",
+   "value": "0.029"
+ },
+ {
+   "className": "Industrial  Production  Managers,",
+   "value": "0.03"
+ },
+ {
+   "className": "Industrial Engineering  Technicians,",
+   "value": "0.03"
+ },
+ {
+   "className": "Network and Computer Systems Administrators,",
+   "value": "0.03"
+ },
+ {
+   "className": "Database Administrators,",
+   "value": "0.03"
+ },
+ {
+   "className": "Purchasing Managers,",
+   "value": "0.03"
+ },
+ {
+   "className": "Postsecondary  Teachers,",
+   "value": "0.032"
+ },
+ {
+   "className": "Environmental  Scientists and Specialists, Including  Health,",
+   "value": "0.033"
+ },
+ {
+   "className": "Substance  Abuse and Behavioral  Disorder Counselors,",
+   "value": "0.033"
+ },
+ {
+   "className": "Lawyers,",
+   "value": "0.035"
+ },
+ {
+   "className": "Craft Artists,",
+   "value": "0.035"
+ },
+ {
+   "className": "Operations Research  Analysts,",
+   "value": "0.035"
+ },
+ {
+   "className": "Computer and Information Systems Managers,",
+   "value": "0.035"
+ },
+ {
+   "className": "Commercial and Industrial Designers,",
+   "value": "0.037"
+ },
+ {
+   "className": "Biomedical  Engineers,",
+   "value": "0.037"
+ },
+ {
+   "className": "Meeting, Convention, and Event Planners,",
+   "value": "0.037"
+ },
+ {
+   "className": "Veterinarians,",
+   "value": "0.038"
+ },
+ {
+   "className": "Writers and Authors,",
+   "value": "0.038"
+ },
+ {
+   "className": "Advertising  and Promotions Managers,",
+   "value": "0.039"
+ },
+ {
+   "className": "Political Scientists,",
+   "value": "0.039"
+ },
+ {
+   "className": "Credit Counselors,",
+   "value": "0.04"
+ },
+ {
+   "className": "Social Scientists and Related Workers, All Other,",
+   "value": "0.04"
+ },
+ {
+   "className": "Astronomers,",
+   "value": "0.041"
+ },
+ {
+   "className": "Ship Engineers,",
+   "value": "0.041"
+ },
+ {
+   "className": "Software Developers,  Applications,",
+   "value": "0.042"
+ },
+ {
+   "className": "Fine Artists, Including  Painters, Sculptors, and Illustrators,",
+   "value": "0.042"
+ },
+ {
+   "className": "Psychiatric Technicians,",
+   "value": "0.043"
+ },
+ {
+   "className": "Landscape  Architects,",
+   "value": "0.045"
+ },
+ {
+   "className": "Health  Educators,",
+   "value": "0.045"
+ },
+ {
+   "className": "Mathematicians,",
+   "value": "0.047"
+ },
+ {
+   "className": "Floral Designers,",
+   "value": "0.047"
+ },
+ {
+   "className": "Farmers, Ranchers, and Other Agricultural  Managers,",
+   "value": "0.047"
+ },
+ {
+   "className": "Forest Fire Inspectors and Prevention Specialists,",
+   "value": "0.048"
+ },
+ {
+   "className": "Emergency Medical Technicians and Paramedics,",
+   "value": "0.049"
+ },
+ {
+   "className": "Editors,",
+   "value": "0.055"
+ },
+ {
+   "className": "Prosthodontists,",
+   "value": "0.055"
+ },
+ {
+   "className": "Healthcare Practitioners  and Technical  Workers, All Other,",
+   "value": "0.055"
+ },
+ {
+   "className": "Travel Guides,",
+   "value": "0.057"
+ },
+ {
+   "className": "Licensed Practical and Licensed Vocational Nurses,",
+   "value": "0.058"
+ },
+ {
+   "className": "Sociologists,",
+   "value": "0.059"
+ },
+ {
+   "className": "Arbitrators, Mediators, and Conciliators,",
+   "value": "0.06"
+ },
+ {
+   "className": "Animal Scientists,",
+   "value": "0.061"
+ },
+ {
+   "className": "Residential  Advisors,",
+   "value": "0.064"
+ },
+ {
+   "className": "Aircraft Cargo Handling Supervisors,",
+   "value": "0.066"
+ },
+ {
+   "className": "Respiratory  Therapists,",
+   "value": "0.066"
+ },
+ {
+   "className": "Broadcast News Analysts,",
+   "value": "0.067"
+ },
+ {
+   "className": "Financial Managers,",
+   "value": "0.069"
+ },
+ {
+   "className": "Nuclear Engineers,",
+   "value": "0.07"
+ },
+ {
+   "className": "Construction  Managers,",
+   "value": "0.071"
+ },
+ {
+   "className": "Musicians and Singers,",
+   "value": "0.074"
+ },
+ {
+   "className": "First-Line Supervisors of Non-Retail Sales Workers,",
+   "value": "0.075"
+ },
+ {
+   "className": "First-Line Supervisors of Personal Service Workers,",
+   "value": "0.076"
+ },
+ {
+   "className": "Food Scientists and Technologists,",
+   "value": "0.077"
+ },
+ {
+   "className": "Compliance Officers,",
+   "value": "0.08"
+ },
+ {
+   "className": "Fish and Game Wardens,",
+   "value": "0.08"
+ },
+ {
+   "className": "Graphic Designers,",
+   "value": "0.082"
+ },
+ {
+   "className": "Food Service Managers,",
+   "value": "0.083"
+ },
+ {
+   "className": "Childcare  Workers,",
+   "value": "0.084"
+ },
+ {
+   "className": "Fitness Trainers and Aerobics Instructors,",
+   "value": "0.085"
+ },
+ {
+   "className": "Gaming Managers,",
+   "value": "0.091"
+ },
+ {
+   "className": "Electrical  Power-Line Installers  and Repairers,",
+   "value": "0.097"
+ },
+ {
+   "className": "Police and Sheriff's Patrol Officers,",
+   "value": "0.098"
+ },
+ {
+   "className": "Travel Agents,",
+   "value": "0.099"
+ },
+ {
+   "className": "Chefs and Head Cooks,",
+   "value": "0.1"
+ },
+ {
+   "className": "Animal Trainers,",
+   "value": "0.1"
+ },
+ {
+   "className": "Radio and Television  Announcers,",
+   "value": "0.1"
+ },
+ {
+   "className": "Electrical Engineers,",
+   "value": "0.1"
+ },
+ {
+   "className": "Chemists,",
+   "value": "0.1"
+ },
+ {
+   "className": "Respiratory  Therapy Technicians,",
+   "value": "0.1"
+ },
+ {
+   "className": "Physicists,",
+   "value": "0.1"
+ },
+ {
+   "className": "Hairdressers, Hairstylists , and Cosmetologists,",
+   "value": "0.11"
+ },
+ {
+   "className": "Reporters and Correspondents,",
+   "value": "0.11"
+ },
+ {
+   "className": "Air Traffic Controllers,",
+   "value": "0.11"
+ },
+ {
+   "className": "Dancers,",
+   "value": "0.13"
+ },
+ {
+   "className": "Nuclear Medicine Technologists,",
+   "value": "0.13"
+ },
+ {
+   "className": "Software Developers, Systems Software,",
+   "value": "0.13"
+ },
+ {
+   "className": "Management  Analysts,",
+   "value": "0.13"
+ },
+ {
+   "className": "Dietetic Technicians,",
+   "value": "0.13"
+ },
+ {
+   "className": "Urban and Regional Planners,",
+   "value": "0.13"
+ },
+ {
+   "className": "Social and Human Service Assistants,",
+   "value": "0.13"
+ },
+ {
+   "className": "Self-Enrichment Education Teachers,",
+   "value": "0.13"
+ },
+ {
+   "className": "Sound Engineering  Technicians,",
+   "value": "0.13"
+ },
+ {
+   "className": "Optometrists,",
+   "value": "0.14"
+ },
+ {
+   "className": "Mining and Geological  Engineers, Including Mining Safety Engineers,",
+   "value": "0.14"
+ },
+ {
+   "className": "Physician  Assistants,",
+   "value": "0.14"
+ },
+ {
+   "className": "Kindergarten  Teachers, Except Special Education,",
+   "value": "0.15"
+ },
+ {
+   "className": "Electricians,",
+   "value": "0.15"
+ },
+ {
+   "className": "Petroleum  Engineers,",
+   "value": "0.16"
+ },
+ {
+   "className": "Desktop Publishers,",
+   "value": "0.16"
+ },
+ {
+   "className": "General and Operations  Managers,",
+   "value": "0.16"
+ },
+ {
+   "className": "Occupational Health and Safety Specialists,",
+   "value": "0.17"
+ },
+ {
+   "className": "Firefighters,",
+   "value": "0.17"
+ },
+ {
+   "className": "Financial Examiners,",
+   "value": "0.17"
+ },
+ {
+   "className": "First-Line Supervisors of Construction  Trades and Extraction Workers,",
+   "value": "0.17"
+ },
+ {
+   "className": "Middle School Teachers,  Except Special  and Career/Technical  Education,",
+   "value": "0.17"
+ },
+ {
+   "className": "Public Relations Specialists,",
+   "value": "0.18"
+ },
+ {
+   "className": "Commercial  Divers,",
+   "value": "0.18"
+ },
+ {
+   "className": "Manufactured  Building and Mobile Home Installers,",
+   "value": "0.18"
+ },
+ {
+   "className": "Airline Pilots, Copilots, and Flight Engineers,",
+   "value": "0.18"
+ },
+ {
+   "className": "Adult  Basic  and  Secondary  Education  and  Literacy  Teachers  and  In- structors,",
+   "value": "0.19"
+ },
+ {
+   "className": "Epidemiologists,",
+   "value": "0.2"
+ },
+ {
+   "className": "Funeral Service Managers, Directors, Morticians,  and Undertakers,",
+   "value": "0.2"
+ },
+ {
+   "className": "Information  Security  Analysts,  Web  Developers,  and  Computer  Network Architects,",
+   "value": "0.21"
+ },
+ {
+   "className": "Actuaries,",
+   "value": "0.21"
+ },
+ {
+   "className": "Animal Control  Workers,",
+   "value": "0.21"
+ },
+ {
+   "className": "Concierges,",
+   "value": "0.21"
+ },
+ {
+   "className": "Computer Occupations,  All Other,",
+   "value": "0.22"
+ },
+ {
+   "className": "Statisticians,",
+   "value": "0.22"
+ },
+ {
+   "className": "Computer Hardware Engineers,",
+   "value": "0.22"
+ },
+ {
+   "className": "Survey Researchers,",
+   "value": "0.23"
+ },
+ {
+   "className": "Business Operations Specialists, All Other,",
+   "value": "0.23"
+ },
+ {
+   "className": "Financial  Analysts,",
+   "value": "0.23"
+ },
+ {
+   "className": "Radiologic Technologists  and Technicians,",
+   "value": "0.23"
+ },
+ {
+   "className": "Cardiovascular Technologists  and Technicians,",
+   "value": "0.23"
+ },
+ {
+   "className": "Agents and Business Managers of Artists, Performers, and Athletes,",
+   "value": "0.24"
+ },
+ {
+   "className": "Engineering  Technicians,  Except Drafters, All Other,",
+   "value": "0.24"
+ },
+ {
+   "className": "Geographers,",
+   "value": "0.25"
+ },
+ {
+   "className": "Occupational Health and Safety Technicians,",
+   "value": "0.25"
+ },
+ {
+   "className": "Probation Officers and Correctional  Treatment Specialists,",
+   "value": "0.25"
+ },
+ {
+   "className": "Environmental  Engineering Technicians,",
+   "value": "0.25"
+ },
+ {
+   "className": "Managers, All Other,",
+   "value": "0.25"
+ },
+ {
+   "className": "Ambulance Drivers and Attendants,  Except Emergency  Medical  Technicians,",
+   "value": "0.25"
+ },
+ {
+   "className": "Sales  Representatives,  Wholesale  and  Manufacturing,  Technical  and Scfientific Products,",
+   "value": "0.25"
+ },
+ {
+   "className": "Career/Technical Education Teachers, Middle School,",
+   "value": "0.26"
+ },
+ {
+   "className": "Captains, Mates, and Pilots of Water Vessels,",
+   "value": "0.27"
+ },
+ {
+   "className": "Occupational Therapy Aides,",
+   "value": "0.27"
+ },
+ {
+   "className": "Medical Equipment Repairers,",
+   "value": "0.27"
+ },
+ {
+   "className": "First-Line Supervisors of Retail Sales Workers,",
+   "value": "0.28"
+ },
+ {
+   "className": "Athletes and Sports Competitors,",
+   "value": "0.28"
+ },
+ {
+   "className": "Gaming Supervisors,",
+   "value": "0.28"
+ },
+ {
+   "className": "Skincare Specialists,",
+   "value": "0.29"
+ },
+ {
+   "className": "Wholesale and Retail Buyers, Except Farm Products,",
+   "value": "0.29"
+ },
+ {
+   "className": "Biological Technicians,",
+   "value": "0.3"
+ },
+ {
+   "className": "Medical  Assistants,",
+   "value": "0.3"
+ },
+ {
+   "className": "Zoologists  and Wildlife Biologists,",
+   "value": "0.3"
+ },
+ {
+   "className": "Cooks, Private Household,",
+   "value": "0.3"
+ },
+ {
+   "className": "Human Resources, Training, and Labor Relations Specialists, All Other,",
+   "value": "0.31"
+ },
+ {
+   "className": "Private Detectives and Investigators,",
+   "value": "0.31"
+ },
+ {
+   "className": "Film and Video Editors,",
+   "value": "0.31"
+ },
+ {
+   "className": "Financial Specialists, All Other,",
+   "value": "0.33"
+ },
+ {
+   "className": "Detectives and Criminal Investigators,",
+   "value": "0.34"
+ },
+ {
+   "className": "Surgical Technologists,",
+   "value": "0.34"
+ },
+ {
+   "className": "Radiation Therapists,",
+   "value": "0.34"
+ },
+ {
+   "className": "Plumbers, Pipefitters, and Steamfitters,",
+   "value": "0.35"
+ },
+ {
+   "className": "Flight Attendants,",
+   "value": "0.35"
+ },
+ {
+   "className": "Diagnostic Medical Sonographers,",
+   "value": "0.35"
+ },
+ {
+   "className": "Bailiffs,",
+   "value": "0.36"
+ },
+ {
+   "className": "Computer  Numerically  Controlled  Machine Tool Programmers,  Metal and Plastics,",
+   "value": "0.36"
+ },
+ {
+   "className": "Telecommunications  Equipment  Installers  and Repairers,  Except Line Installers,",
+   "value": "0.36"
+ },
+ {
+   "className": "Cleaners of Vehicles and Equipment,",
+   "value": "0.37"
+ },
+ {
+   "className": "Funeral Attendants,",
+   "value": "0.37"
+ },
+ {
+   "className": "Helpers-Extraction Workers,",
+   "value": "0.37"
+ },
+ {
+   "className": "Actors,",
+   "value": "0.37"
+ },
+ {
+   "className": "Mine Shuttle Car Operators,",
+   "value": "0.37"
+ },
+ {
+   "className": "Electrical  and  Electronics  Repairers,  Powerhouse,  Substation,  and Relay Surveyors,",
+   "value": "0.38"
+ },
+ {
+   "className": "Mechanical  Engineering Technicians,",
+   "value": "0.38"
+ },
+ {
+   "className": "Packers and Packagers,  Hand,",
+   "value": "0.38"
+ },
+ {
+   "className": "Interpreters and Translators,",
+   "value": "0.38"
+ },
+ {
+   "className": "Home Health  Aides,",
+   "value": "0.39"
+ },
+ {
+   "className": "Upholsterers,",
+   "value": "0.39"
+ },
+ {
+   "className": "Elevator Installers and Repairers,",
+   "value": "0.39"
+ },
+ {
+   "className": "Gaming Cage Workers,",
+   "value": "0.39"
+ },
+ {
+   "className": "Audio-Visual  and Multimedia Collections Specialists,",
+   "value": "0.39"
+ },
+ {
+   "className": "Judges, Magistrate Judges, and Magistrates,",
+   "value": "0.4"
+ },
+ {
+   "className": "Mobile Heavy Equipment Mechanics, Except Engines,",
+   "value": "0.4"
+ },
+ {
+   "className": "Health Technologists  and Technicians, All Other,",
+   "value": "0.4"
+ },
+ {
+   "className": "Graders and Sorters,  Agricultural  Products,",
+   "value": "0.41"
+ },
+ {
+   "className": "Structural Metal Fabricators and Fitters,",
+   "value": "0.41"
+ },
+ {
+   "className": "Judicial Law Clerks,",
+   "value": "0.41"
+ },
+ {
+   "className": "Electrical and Electronics Repairers, Commercial and Industrial Equipment,",
+   "value": "0.41"
+ },
+ {
+   "className": "Forest and Conservation  Technicians,",
+   "value": "0.42"
+ },
+ {
+   "className": "First-Line  Supervisors  of  Helpers,   Laborers,  and  Material   Movers, Hand,",
+   "value": "0.42"
+ },
+ {
+   "className": "Locker Room, Coatroom, and Dressing Room Attendants,",
+   "value": "0.43"
+ },
+ {
+   "className": "Physical Scientists, All Other,",
+   "value": "0.43"
+ },
+ {
+   "className": "Economists,",
+   "value": "0.43"
+ },
+ {
+   "className": "Historians,",
+   "value": "0.44"
+ },
+ {
+   "className": "Medical Appliance Technicians,",
+   "value": "0.45"
+ },
+ {
+   "className": "Court, Municipal, and License Clerks,",
+   "value": "0.46"
+ },
+ {
+   "className": "Compensation,  Benefits, and Job Analysis Specialists,",
+   "value": "0.47"
+ },
+ {
+   "className": "Psychiatric Aides,",
+   "value": "0.47"
+ },
+ {
+   "className": "Medical and Clinical Laboratory Technicians,",
+   "value": "0.47"
+ },
+ {
+   "className": "Fire Inspectors and Investigators,",
+   "value": "0.48"
+ },
+ {
+   "className": "Aerospace Engineering and Operations Technicians,",
+   "value": "0.48"
+ },
+ {
+   "className": "Merchandise Displayers and Window Trimmers,",
+   "value": "0.48"
+ },
+ {
+   "className": "Explosives  Workers, Ordnance Handling Experts, and Blasters,",
+   "value": "0.48"
+ },
+ {
+   "className": "Computer Programmers,",
+   "value": "0.48"
+ },
+ {
+   "className": "Crossing Guards,",
+   "value": "0.49"
+ },
+ {
+   "className": "Agricultural  Engineers,",
+   "value": "0.49"
+ },
+ {
+   "className": "Roof Boilers, Mining,",
+   "value": "0.49"
+ },
+ {
+   "className": "Telecommunications Line Installers and Repairers,",
+   "value": "0.49"
+ },
+ {
+   "className": "Police, Fire, and Ambulance Dispatchers,",
+   "value": "0.49"
+ },
+ {
+   "className": "Loading Machine Operators, Underground  Mining,",
+   "value": "0.5"
+ },
+ {
+   "className": "Installation, Maintenance, and Repair Workers, All Other,",
+   "value": "0.5"
+ },
+ {
+   "className": "Court Reporters,",
+   "value": "0.5"
+ },
+ {
+   "className": "Demonstrators  and Product Promoters,",
+   "value": "0.51"
+ },
+ {
+   "className": "Dental Assistants,",
+   "value": "0.51"
+ },
+ {
+   "className": "Shoe and Leather Workers and Repairers,",
+   "value": "0.52"
+ },
+ {
+   "className": "Architectural  and Civil Drafters,",
+   "value": "0.52"
+ },
+ {
+   "className": "Rotary Drill Operators, Oil and Gas,",
+   "value": "0.53"
+ },
+ {
+   "className": "Hazardous Materials  Removal  Workers,",
+   "value": "0.53"
+ },
+ {
+   "className": "Embalmers,",
+   "value": "0.54"
+ },
+ {
+   "className": "Continuous  Mining Machine Operators,",
+   "value": "0.54"
+ },
+ {
+   "className": "Slot Supervisors,",
+   "value": "0.54"
+ },
+ {
+   "className": "Massage Therapists,",
+   "value": "0.54"
+ },
+ {
+   "className": "Advertising Sales Agents,",
+   "value": "0.54"
+ },
+ {
+   "className": "Automotive Glass Installers and Repairers,",
+   "value": "0.55"
+ },
+ {
+   "className": "Commercial  Pilots,",
+   "value": "0.55"
+ },
+ {
+   "className": "Customer Service Representatives,",
+   "value": "0.55"
+ },
+ {
+   "className": "Audio and Video Equipment Technicians,",
+   "value": "0.55"
+ },
+ {
+   "className": "Teacher Assistants,",
+   "value": "0.56"
+ },
+ {
+   "className": "First-Line Supervisors of Farming, Fishing, and Forestry Workers,",
+   "value": "0.57"
+ },
+ {
+   "className": "Chemical Technicians,",
+   "value": "0.57"
+ },
+ {
+   "className": "Helpers- Pipelayers,  Plumbers, Pipefitters, and Steamfitters,",
+   "value": "0.57"
+ },
+ {
+   "className": "Cost Estimators,",
+   "value": "0.57"
+ },
+ {
+   "className": "Transit and Railroad Police,",
+   "value": "0.57"
+ },
+ {
+   "className": "First-Line     Supervisors     of    Landscaping,      Lawn    Service,     and Groundskeeping Workers,",
+   "value": "0.57"
+ },
+ {
+   "className": "Personal Financial Advisors,",
+   "value": "0.58"
+ },
+ {
+   "className": "Millwrights,",
+   "value": "0.59"
+ },
+ {
+   "className": "Museum Technicians  and Conservators,",
+   "value": "0.59"
+ },
+ {
+   "className": "Mine Cutting and Channeling Machine Operators,",
+   "value": "0.59"
+ },
+ {
+   "className": "Transportation, Storage, and Distribution Managers,",
+   "value": "0.59"
+ },
+ {
+   "className": "Recreational  Vehicle Service Technicians,",
+   "value": "0.59"
+ },
+ {
+   "className": "Automotive Service Technicians and Mechanics,",
+   "value": "0.59"
+ },
+ {
+   "className": "Correctional  Officers and Jailers,",
+   "value": "0.6"
+ },
+ {
+   "className": "Camera Operators, Television, Video, and Motion Picture,",
+   "value": "0.6"
+ },
+ {
+   "className": "Slaughterers  and Meat Packers,",
+   "value": "0.6"
+ },
+ {
+   "className": "Electronic  Equipment Installers and Repairers, Motor Vehicles,",
+   "value": "0.61"
+ },
+ {
+   "className": "Physical Therapist Aides,",
+   "value": "0.61"
+ },
+ {
+   "className": "Costume Attendants,",
+   "value": "0.61"
+ },
+ {
+   "className": "Market Research  Analysts and Marketing Specialists,",
+   "value": "0.61"
+ },
+ {
+   "className": "Reservation  and Transportation Ticket Agents and Travel Clerks,",
+   "value": "0.61"
+ },
+ {
+   "className": "Water and Wastewater Treatment Plant and System Operators,",
+   "value": "0.61"
+ },
+ {
+   "className": "Life, Physical, and Social Science Technicians,  All Other,",
+   "value": "0.61"
+ },
+ {
+   "className": "Food Cooking Machine Operators and Tenders,",
+   "value": "0.61"
+ },
+ {
+   "className": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders,",
+   "value": "0.61"
+ },
+ {
+   "className": "Motorboat  Operators,",
+   "value": "0.62"
+ },
+ {
+   "className": "Tapers,",
+   "value": "0.62"
+ },
+ {
+   "className": "Pipelayers,",
+   "value": "0.62"
+ },
+ {
+   "className": "Geoscientists, Except Hydrologists and Geographers,",
+   "value": "0.63"
+ },
+ {
+   "className": "Control and Valve Installers and Repairers, Except Mechanical  Door,",
+   "value": "0.63"
+ },
+ {
+   "className": "Healthcare Support Workers,  All Other,",
+   "value": "0.63"
+ },
+ {
+   "className": "First-Line Supervisors of Food Preparation  and Serving Workers,",
+   "value": "0.63"
+ },
+ {
+   "className": "Construction  and Building  Inspectors,",
+   "value": "0.63"
+ },
+ {
+   "className": "Cutters and Trimmers, Hand,",
+   "value": "0.64"
+ },
+ {
+   "className": "Maintenance  and Repair Workers, General,",
+   "value": "0.64"
+ },
+ {
+   "className": "Administrative Law Judges, Adjudicators, and Hearing Officers,",
+   "value": "0.64"
+ },
+ {
+   "className": "Stock Clerks and Order Fillers,",
+   "value": "0.64"
+ },
+ {
+   "className": "Power Distributors and Dispatchers,",
+   "value": "0.64"
+ },
+ {
+   "className": "Insulation  Workers, Mechanical,",
+   "value": "0.64"
+ },
+ {
+   "className": "Social Science Research  Assistants,",
+   "value": "0.65"
+ },
+ {
+   "className": "Machinists,",
+   "value": "0.65"
+ },
+ {
+   "className": "Computer Support Specialists,",
+   "value": "0.65"
+ },
+ {
+   "className": "Librarians,",
+   "value": "0.65"
+ },
+ {
+   "className": "Electronic Home Entertainment  Equipment Installers and Repairers,",
+   "value": "0.65"
+ },
+ {
+   "className": "Heating, Air Conditioning,  and Refrigeration  Mechanics and Installers,",
+   "value": "0.65"
+ },
+ {
+   "className": "Hoist and Winch Operators,",
+   "value": "0.65"
+ },
+ {
+   "className": "Pest Control Workers,",
+   "value": "0.66"
+ },
+ {
+   "className": "Helpers-Production Workers,",
+   "value": "0.66"
+ },
+ {
+   "className": "Statistical  Assistants,",
+   "value": "0.66"
+ },
+ {
+   "className": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners,",
+   "value": "0.66"
+ },
+ {
+   "className": "Motorboat  Mechanics  and Service Technicians,",
+   "value": "0.66"
+ },
+ {
+   "className": "Paper Goods Machine Setters, Operators, and Tenders,",
+   "value": "0.67"
+ },
+ {
+   "className": "Foundry  Mold and Coremakers,",
+   "value": "0.67"
+ },
+ {
+   "className": "Atmospheric  and Space Scientists,",
+   "value": "0.67"
+ },
+ {
+   "className": "Bus Drivers, Transit and Intercity,",
+   "value": "0.67"
+ },
+ {
+   "className": "Lifeguards, Ski Patrol, and Other Recreational  Protective Service Workers,",
+   "value": "0.67"
+ },
+ {
+   "className": "Industrial Machinery  Mechanics,",
+   "value": "0.67"
+ },
+ {
+   "className": "Postal Service Mail Carriers,",
+   "value": "0.68"
+ },
+ {
+   "className": "Roustabouts,  Oil and Gas,",
+   "value": "0.68"
+ },
+ {
+   "className": "Boilermakers,",
+   "value": "0.68"
+ },
+ {
+   "className": "Mechanical  Drafters,",
+   "value": "0.68"
+ },
+ {
+   "className": "Dental Hygienists,",
+   "value": "0.68"
+ },
+ {
+   "className": "Light Truck or Delivery Services Drivers,",
+   "value": "0.69"
+ },
+ {
+   "className": "Maids and Housekeeping  Cleaners,",
+   "value": "0.69"
+ },
+ {
+   "className": "Painters, Transportation Equipment,",
+   "value": "0.69"
+ },
+ {
+   "className": "Eligibility  Interviewers,  Government Programs,",
+   "value": "0.7"
+ },
+ {
+   "className": "Tire Repairers and Changers,",
+   "value": "0.7"
+ },
+ {
+   "className": "Food Batchmakers,",
+   "value": "0.7"
+ },
+ {
+   "className": "Avionics Technicians,",
+   "value": "0.7"
+ },
+ {
+   "className": "Aircraft Mechanics and Service Technicians,",
+   "value": "0.71"
+ },
+ {
+   "className": "Airfield Operations Specialists,",
+   "value": "0.71"
+ },
+ {
+   "className": "Petroleum  Pump System Operators, Refinery Operators, and Gaugers,",
+   "value": "0.71"
+ },
+ {
+   "className": "Construction  and Related Workers, All Other,",
+   "value": "0.71"
+ },
+ {
+   "className": "Opticians, Dispensing,",
+   "value": "0.71"
+ },
+ {
+   "className": "Laundry and Dry-Cleaning  Workers,",
+   "value": "0.71"
+ },
+ {
+   "className": "Amusement and Recreation  Attendants,",
+   "value": "0.72"
+ },
+ {
+   "className": "Pharmacy Aides,",
+   "value": "0.72"
+ },
+ {
+   "className": "Helpers-Roofers,",
+   "value": "0.72"
+ },
+ {
+   "className": "Tank Car, Truck, and Ship Loaders,",
+   "value": "0.72"
+ },
+ {
+   "className": "Home Appliance  Repairers,",
+   "value": "0.72"
+ },
+ {
+   "className": "Carpenters,",
+   "value": "0.72"
+ },
+ {
+   "className": "Public Address System and Other Announcers,",
+   "value": "0.72"
+ },
+ {
+   "className": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders,",
+   "value": "0.73"
+ },
+ {
+   "className": "Administrative Services Managers,",
+   "value": "0.73"
+ },
+ {
+   "className": "Glaziers,",
+   "value": "0.73"
+ },
+ {
+   "className": "Coil Winders, Tapers, and Finishers,",
+   "value": "0.73"
+ },
+ {
+   "className": "Bus and Truck Mechanics and Diesel Engine Specialists,",
+   "value": "0.73"
+ },
+ {
+   "className": "Computer, Automated Teller, and Office Machine Repairers,",
+   "value": "0.74"
+ },
+ {
+   "className": "Personal Care Aides,",
+   "value": "0.74"
+ },
+ {
+   "className": "Broadcast Technicians,",
+   "value": "0.74"
+ },
+ {
+   "className": "Helpers-Electricians,",
+   "value": "0.74"
+ },
+ {
+   "className": "Postmasters and Mail Superintendents,",
+   "value": "0.75"
+ },
+ {
+   "className": "Tile and Marble Setters,",
+   "value": "0.75"
+ },
+ {
+   "className": "Painters, Construction  and Maintenance,",
+   "value": "0.75"
+ },
+ {
+   "className": "Transportation Attendants, Except Flight Attendants,",
+   "value": "0.75"
+ },
+ {
+   "className": "Civil Engineering Technicians,",
+   "value": "0.75"
+ },
+ {
+   "className": "Farm Equipment Mechanics and Service Technicians,",
+   "value": "0.75"
+ },
+ {
+   "className": "Archivists,",
+   "value": "0.76"
+ },
+ {
+   "className": "Chemical Equipment Operators and Tenders,",
+   "value": "0.76"
+ },
+ {
+   "className": "Electric Motor, Power Tool, and Related Repairers,",
+   "value": "0.76"
+ },
+ {
+   "className": "Fallers,",
+   "value": "0.76"
+ },
+ {
+   "className": "Environmental Science and Protection Technicians,  Including  Health,",
+   "value": "0.77"
+ },
+ {
+   "className": "Locksmiths and Safe Repairers,",
+   "value": "0.77"
+ },
+ {
+   "className": "Tree Trimmers and Pruners,",
+   "value": "0.77"
+ },
+ {
+   "className": "Bartenders,",
+   "value": "0.77"
+ },
+ {
+   "className": "Purchasing Agents, Except Wholesale,  Retail, and Farm Products,",
+   "value": "0.77"
+ },
+ {
+   "className": "Dishwashers,",
+   "value": "0.77"
+ },
+ {
+   "className": "Hunters and Trappers,",
+   "value": "0.77"
+ },
+ {
+   "className": "Medical Equipment Preparers,",
+   "value": "0.78"
+ },
+ {
+   "className": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic,",
+   "value": "0.78"
+ },
+ {
+   "className": "Computer Operators,",
+   "value": "0.78"
+ },
+ {
+   "className": "Gas Plant Operators,",
+   "value": "0.78"
+ },
+ {
+   "className": "Postal Service Mail Sorters, Processors, and Processing  Machine Operators,",
+   "value": "0.79"
+ },
+ {
+   "className": "Heavy and Tractor-Trailer Truck Drivers,",
+   "value": "0.79"
+ },
+ {
+   "className": "Shampooers,",
+   "value": "0.79"
+ },
+ {
+   "className": "Drywall and Ceiling Tile Installers,",
+   "value": "0.79"
+ },
+ {
+   "className": "Helpers-Installation, Maintenance, and Repair Workers,",
+   "value": "0.79"
+ },
+ {
+   "className": "Motorcycle  Mechanics,",
+   "value": "0.79"
+ },
+ {
+   "className": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers,",
+   "value": "0.79"
+ },
+ {
+   "className": "Logging Equipment Operators,",
+   "value": "0.79"
+ },
+ {
+   "className": "Floor Layers, Except Carpet, Wood, and Hard Tiles,",
+   "value": "0.79"
+ },
+ {
+   "className": "Barbers,",
+   "value": "0.8"
+ },
+ {
+   "className": "Derrick Operators, Oil and Gas,",
+   "value": "0.8"
+ },
+ {
+   "className": "Cooks, Fast Food,",
+   "value": "0.81"
+ },
+ {
+   "className": "Word Processors and Typists,",
+   "value": "0.81"
+ },
+ {
+   "className": "Electrical and Electronics  Drafters,",
+   "value": "0.81"
+ },
+ {
+   "className": "Electro-Mechanical Technicians,",
+   "value": "0.81"
+ },
+ {
+   "className": "Cleaning, Washing, and Metal Pickling Equipment  Operators and Tenders,",
+   "value": "0.81"
+ },
+ {
+   "className": "Property, Real Estate, and Community  Association  Managers,",
+   "value": "0.81"
+ },
+ {
+   "className": "Medical Secretaries,",
+   "value": "0.81"
+ },
+ {
+   "className": "Pressers, Textile, Garment, and Related Materials,",
+   "value": "0.81"
+ },
+ {
+   "className": "Engine and Other Machine Assemblers,",
+   "value": "0.82"
+ },
+ {
+   "className": "Security and Fire Alarm Systems Installers,",
+   "value": "0.82"
+ },
+ {
+   "className": "Refractory  Materials Repairers,  Except Brickmasons,",
+   "value": "0.82"
+ },
+ {
+   "className": "Nonfarm  Animal Caretakers,",
+   "value": "0.82"
+ },
+ {
+   "className": "Sheet Metal  Workers,",
+   "value": "0.82"
+ },
+ {
+   "className": "Pile-Driver Operators,",
+   "value": "0.82"
+ },
+ {
+   "className": "Brickmasons and Blockmasons,",
+   "value": "0.82"
+ },
+ {
+   "className": "Fishers and Related Fishing Workers,",
+   "value": "0.83"
+ },
+ {
+   "className": "Structural  Iron and Steel Workers,",
+   "value": "0.83"
+ },
+ {
+   "className": "Railroad Brake, Signal, and Switch Operators,",
+   "value": "0.83"
+ },
+ {
+   "className": "Railroad Conductors and Yardmasters,",
+   "value": "0.83"
+ },
+ {
+   "className": "Cooks, Institution  and Cafeteria,",
+   "value": "0.83"
+ },
+ {
+   "className": "Sailors and Marine Oilers,",
+   "value": "0.83"
+ },
+ {
+   "className": "Mixing and Blending Machine Setters, Operators, and Tenders,",
+   "value": "0.83"
+ },
+ {
+   "className": "Helpers-Brickmasons, Blockmasons, Stonemasons, and Tile and Marbke Setters,",
+   "value": "0.83"
+ },
+ {
+   "className": "Segmental  Pavers,",
+   "value": "0.83"
+ },
+ {
+   "className": "Insulation  Workers, fl oor, Ceiling, and Wall,",
+   "value": "0.83"
+ },
+ {
+   "className": "Printing Press Operators,",
+   "value": "0.83"
+ },
+ {
+   "className": "Automotive and Watercraft Service Attendants,",
+   "value": "0.83"
+ },
+ {
+   "className": "Septic Tank Servicers and Sewer Pipe Cleaners,",
+   "value": "0.83"
+ },
+ {
+   "className": "Baggage Porters and Bellhops,",
+   "value": "0.83"
+ },
+ {
+   "className": "Gaming Change Persons and Booth Cashiers,",
+   "value": "0.83"
+ },
+ {
+   "className": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic,",
+   "value": "0.83"
+ },
+ {
+   "className": "Paving, Surfacing , and Tamping Equipment Operators,",
+   "value": "0.83"
+ },
+ {
+   "className": "Tool and Die Makers,",
+   "value": "0.84"
+ },
+ {
+   "className": "Electrical and Electronics  Engineering Technicians,",
+   "value": "0.84"
+ },
+ {
+   "className": "Plasterers and Stucco Masons,",
+   "value": "0.84"
+ },
+ {
+   "className": "Layout Workers, Metal and Plastic,",
+   "value": "0.84"
+ },
+ {
+   "className": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic,",
+   "value": "0.84"
+ },
+ {
+   "className": "Security Guards,",
+   "value": "0.84"
+ },
+ {
+   "className": "Tailors, Dressmakers, and Custom Sewers,",
+   "value": "0.84"
+ },
+ {
+   "className": "Wellhead Pumpers,",
+   "value": "0.84"
+ },
+ {
+   "className": "Proofreaders and Copy Markers,",
+   "value": "0.84"
+ },
+ {
+   "className": "Parking Enforcement  Workers,",
+   "value": "0.84"
+ },
+ {
+   "className": "Laborers and Freight, Stock, and Material Movers, Hand,",
+   "value": "0.85"
+ },
+ {
+   "className": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific  Products,",
+   "value": "0.85"
+ },
+ {
+   "className": "Meter Readers,  Utilities,",
+   "value": "0.85"
+ },
+ {
+   "className": "Power Plant Operators,",
+   "value": "0.85"
+ },
+ {
+   "className": "Chemical Plant and System Operators,",
+   "value": "0.85"
+ },
+ {
+   "className": "Earth Drillers, Except Oil and Gas,",
+   "value": "0.85"
+ },
+ {
+   "className": "Nuclear Technicians,",
+   "value": "0.85"
+ },
+ {
+   "className": "Executive Secretaries and Executive Administrative Assistants,",
+   "value": "0.86"
+ },
+ {
+   "className": "Plant and System Operators, All Other,",
+   "value": "0.86"
+ },
+ {
+   "className": "Food Servers, Nonrestaurant,",
+   "value": "0.86"
+ },
+ {
+   "className": "Sawing Machine Setters, Operators, and Tenders, Wood,",
+   "value": "0.86"
+ },
+ {
+   "className": "Subway and Streetcar Operators,",
+   "value": "0.86"
+ },
+ {
+   "className": "Veterinary Assistants and Laboratory  Animal Caretakers,",
+   "value": "0.86"
+ },
+ {
+   "className": "Cutting and Slicing Machine Setters, Operators, and Tenders,",
+   "value": "0.86"
+ },
+ {
+   "className": "Real Estate Sales Agents,",
+   "value": "0.86"
+ },
+ {
+   "className": "Computer-Controlled Machine Tool Operators,  Metal and Plastic,",
+   "value": "0.86"
+ },
+ {
+   "className": "Maintenance  Workers, Machinery,",
+   "value": "0.86"
+ },
+ {
+   "className": "Correspondence Clerks,",
+   "value": "0.86"
+ },
+ {
+   "className": "Miscellaneous  Agricultural  Workers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Forest and Conservation  Workers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Pourers and Casters, Metal,",
+   "value": "0.87"
+ },
+ {
+   "className": "Carpet Installers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Paperhangers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Buyers and Purchasing Agents, Farm Products,",
+   "value": "0.87"
+ },
+ {
+   "className": "Furniture Finishers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Food Preparation  Workers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Floor Sanders and Finishers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Parking Lot Attendants,",
+   "value": "0.87"
+ },
+ {
+   "className": "Highway Maintenance  Workers,",
+   "value": "0.87"
+ },
+ {
+   "className": "Construction  Laborers,",
+   "value": "0.88"
+ },
+ {
+   "className": "Production,  Planning, and Expediting Clerks,",
+   "value": "0.88"
+ },
+ {
+   "className": "Semiconductor  Processors,",
+   "value": "0.88"
+ },
+ {
+   "className": "Cartographers  and Photogrammetrists,",
+   "value": "0.88"
+ },
+ {
+   "className": "Metal-Refining Furnace Operators and Tenders,",
+   "value": "0.88"
+ },
+ {
+   "className": "Separating,  Filtering,  Clarifying,  Precipitating,  and Still Machine Setters, Operators, and Tenders,",
+   "value": "0.88"
+ },
+ {
+   "className": "Extruding  and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers,",
+   "value": "0.88"
+ },
+ {
+   "className": "Terrazzo Workers and Finishers,",
+   "value": "0.88"
+ },
+ {
+   "className": "Tool Grinders, Filers, and Sharpeners,",
+   "value": "0.88"
+ },
+ {
+   "className": "Rail Car Repairers,",
+   "value": "0.88"
+ },
+ {
+   "className": "Bakers,",
+   "value": "0.89"
+ },
+ {
+   "className": "Medical Transcriptionists,",
+   "value": "0.89"
+ },
+ {
+   "className": "Stonemasons,",
+   "value": "0.89"
+ },
+ {
+   "className": "Bus Drivers, School or Special Client,",
+   "value": "0.89"
+ },
+ {
+   "className": "Technical Writers,",
+   "value": "0.89"
+ },
+ {
+   "className": "Riggers,",
+   "value": "0.89"
+ },
+ {
+   "className": "Rail-Track Laying and Maintenance  Equipment Operators,",
+   "value": "0.89"
+ },
+ {
+   "className": "Stationary  Engineers and Boiler Operators,",
+   "value": "0.89"
+ },
+ {
+   "className": "Sewing Machine Operators,",
+   "value": "0.89"
+ },
+ {
+   "className": "Taxi Drivers and Chauffeurs,",
+   "value": "0.89"
+ },
+ {
+   "className": "Human Resources Assistants, Except Payroll and Timekeeping,",
+   "value": "0.9"
+ },
+ {
+   "className": "Medical and Clinical Laboratory Technologists,",
+   "value": "0.9"
+ },
+ {
+   "className": "Reinforcing  Iron and Rebar Workers,",
+   "value": "0.9"
+ },
+ {
+   "className": "Roofers,",
+   "value": "0.9"
+ },
+ {
+   "className": "Crane and Tower Operators,",
+   "value": "0.9"
+ },
+ {
+   "className": "Traffic Technicians,",
+   "value": "0.9"
+ },
+ {
+   "className": "Transportation Inspectors,",
+   "value": "0.9"
+ },
+ {
+   "className": "Patternmakers, Metal and Plastic,",
+   "value": "0.9"
+ },
+ {
+   "className": "Molders, Shapers, and Casters, Except Metal and Plastic,",
+   "value": "0.9"
+ },
+ {
+   "className": "Appraisers and Assessors of Real Estate,",
+   "value": "0.9"
+ },
+ {
+   "className": "Pump Operators, Except Wellhead  Pumpers,",
+   "value": "0.9"
+ },
+ {
+   "className": "Signal and Track Switch Repairers,",
+   "value": "0.9"
+ },
+ {
+   "className": "Gaming and Sports Book Writers and Runners,",
+   "value": "0.91"
+ },
+ {
+   "className": "Musical  Instrument  Repairers and Tuners,",
+   "value": "0.91"
+ },
+ {
+   "className": "Tour Guides and Escorts,",
+   "value": "0.91"
+ },
+ {
+   "className": "Mechanical  Door Repairers,",
+   "value": "0.91"
+ },
+ {
+   "className": "Food  and  Tobacco  Roasting,  Baking,  and  Drying  Machine  Operators and Tenders,",
+   "value": "0.91"
+ },
+ {
+   "className": "Gas Compressor and Gas Pumping Station Operators,",
+   "value": "0.91"
+ },
+ {
+   "className": "Medical Records and Health Information  Technicians,",
+   "value": "0.91"
+ },
+ {
+   "className": "Coating,  Painting,  and Spraying  Machine Setters,  Operators,  and Tenders,",
+   "value": "0.91"
+ },
+ {
+   "className": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic,",
+   "value": "0.91"
+ },
+ {
+   "className": "Rail Yard Eng ineers, Dinkey Operators, and Hostlers,",
+   "value": "0.91"
+ },
+ {
+   "className": "Electrical   and   Electronics   Installers   and   Repairers,   Transportation,",
+   "value": "0.91"
+ },
+ {
+   "className": "Dining Room and Cafeteria Attendants and Bartender Helpers,",
+   "value": "0.91"
+ },
+ {
+   "className": "Heat  Treating  Equipment  Setters,  Operators,  and  Tenders,  Metal  and Plastic,",
+   "value": "0.91"
+ },
+ {
+   "className": "Geological  and Petroleum Technicians,",
+   "value": "0.91"
+ },
+ {
+   "className": "Automotive Body and Related Repairers,",
+   "value": "0.91"
+ },
+ {
+   "className": "Pattermnakers, Wood,",
+   "value": "0.91"
+ },
+ {
+   "className": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic,",
+   "value": "0.91"
+ },
+ {
+   "className": "Office Machine Operators, Except Computer,",
+   "value": "0.92"
+ },
+ {
+   "className": "Pharmacy Technicians,",
+   "value": "0.92"
+ },
+ {
+   "className": "Loan Interviewers and Clerks,",
+   "value": "0.92"
+ },
+ {
+   "className": "Dredge Operators,",
+   "value": "0.92"
+ },
+ {
+   "className": "Insurance Sales Agents,",
+   "value": "0.92"
+ },
+ {
+   "className": "Cabinetmakers  and Bench Carpenters,",
+   "value": "0.92"
+ },
+ {
+   "className": "Painting, Coating, and Decorating  Workers,",
+   "value": "0.92"
+ },
+ {
+   "className": "Fence Erectors,",
+   "value": "0.92"
+ },
+ {
+   "className": "Plating  and  Coating  Machine  Setters,  Operators,  and  Tenders,  Metal and Plastic,",
+   "value": "0.92"
+ },
+ {
+   "className": "Retail Salespersons,",
+   "value": "0.92"
+ },
+ {
+   "className": "Combined Food Preparation and Serving Workers, Including Fast Food,",
+   "value": "0.92"
+ },
+ {
+   "className": "Production  Workers, All Other,",
+   "value": "0.92"
+ },
+ {
+   "className": "Helpers-Carpenters,",
+   "value": "0.92"
+ },
+ {
+   "className": "Cooling and Freezing Equipment Operators and Tenders,",
+   "value": "0.93"
+ },
+ {
+   "className": "Fiberglass Larninators and Fabricators,",
+   "value": "0.93"
+ },
+ {
+   "className": "Service Unit Operators, Oil, Gas, and Mining,",
+   "value": "0.93"
+ },
+ {
+   "className": "Conveyor Operators and Tenders,",
+   "value": "0.93"
+ },
+ {
+   "className": "Outdoor Power Equipment and Other Small Engine Mechanics,",
+   "value": "0.93"
+ },
+ {
+   "className": "Locomotive Firers,",
+   "value": "0.93"
+ },
+ {
+   "className": "Machine Feeders and Offbearers,",
+   "value": "0.93"
+ },
+ {
+   "className": "Model Makers, Metal and Plastic,",
+   "value": "0.93"
+ },
+ {
+   "className": "Radio, Cellular, and Tower Equipment Installers and Repairs,",
+   "value": "0.93"
+ },
+ {
+   "className": "Butchers and Meat Cutters,",
+   "value": "0.93"
+ },
+ {
+   "className": "Extruding, Forming, Pressing, and Compacting  Machine Setters, Operators, and Tenders,",
+   "value": "0.93"
+ },
+ {
+   "className": "Refuse and Recyclable  Material  Collectors,",
+   "value": "0.93"
+ },
+ {
+   "className": "Tax Examiners and Collectors,  and Revenue Agents,",
+   "value": "0.93"
+ },
+ {
+   "className": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic,",
+   "value": "0.93"
+ },
+ {
+   "className": "Industrial Truck and Tractor Operators,",
+   "value": "0.93"
+ },
+ {
+   "className": "Accountants  and Auditors,",
+   "value": "0.94"
+ },
+ {
+   "className": "Drilling  and  Boring  Machine  Tool  Setters,  Operators,  and  Tenders,,",
+   "value": "0.94"
+ },
+ {
+   "className": "Mail Clerks and Mail Machine Operators, Except Postal Service,",
+   "value": "0.94"
+ },
+ {
+   "className": "Waiters and Waitresses,",
+   "value": "0.94"
+ },
+ {
+   "className": "Meat, Poultry, and Fish Cutters and Trimmers,",
+   "value": "0.94"
+ },
+ {
+   "className": "Budget Analysts,",
+   "value": "0.94"
+ },
+ {
+   "className": "Cement Masons and Concrete Finishers,",
+   "value": "0.94"
+ },
+ {
+   "className": "Bicycle Repairers,",
+   "value": "0.94"
+ },
+ {
+   "className": "Coin, Vending, and Amusement Machine Servicers and Repairers,",
+   "value": "0.94"
+ },
+ {
+   "className": "Welders, Cutters, Solderers, and Brazers,",
+   "value": "0.94"
+ },
+ {
+   "className": "Couriers and Messengers,",
+   "value": "0.94"
+ },
+ {
+   "className": "Interviewers,  Except Eligibility  and Loan,",
+   "value": "0.94"
+ },
+ {
+   "className": "Cooks, Short Order,",
+   "value": "0.94"
+ },
+ {
+   "className": "Excavating  and Loading Machine and Dragline Operators,",
+   "value": "0.94"
+ },
+ {
+   "className": "Helpers-Painters, Paperhangers,  Plasterers, and Stucco Masons,",
+   "value": "0.94"
+ },
+ {
+   "className": "Hotel, Motel, and Resort Desk Clerks,",
+   "value": "0.94"
+ },
+ {
+   "className": "Tire Builders,",
+   "value": "0.94"
+ },
+ {
+   "className": "Door-to-Door  Sales  Workers,  News  and  Street  Vendors,  and  Related Workers,",
+   "value": "0.94"
+ },
+ {
+   "className": "First-Line Supervisors of Housekeeping and Janitorial Workers,",
+   "value": "0.94"
+ },
+ {
+   "className": "Agricultural  Inspectors,",
+   "value": "0.94"
+ },
+ {
+   "className": "Paralegals and Legal Assistants,",
+   "value": "0.94"
+ },
+ {
+   "className": "Manicurists and Pedicurists,",
+   "value": "0.95"
+ },
+ {
+   "className": "Weighers, Measurers, Checkers,  and Samplers, Recordkeeping,",
+   "value": "0.95"
+ },
+ {
+   "className": "Textile Cutting Machine Setters, Operators, and Tenders,",
+   "value": "0.95"
+ },
+ {
+   "className": "Bill and Account Collectors,",
+   "value": "0.95"
+ },
+ {
+   "className": "Nuclear Power Reactor Operators,",
+   "value": "0.95"
+ },
+ {
+   "className": "Gaming Surveillance Officers and Gaming Investigators,",
+   "value": "0.95"
+ },
+ {
+   "className": "Library Assistants, Clerical,",
+   "value": "0.95"
+ },
+ {
+   "className": "Operating Engineers  and Other Construction Equipment Operators,",
+   "value": "0.95"
+ },
+ {
+   "className": "Print Binding and Finishing Workers,",
+   "value": "0.95"
+ },
+ {
+   "className": "Animal Breeders,",
+   "value": "0.95"
+ },
+ {
+   "className": "Molding,  Coremaking,  and  Casting  Machine  Setters,  Operators,  and Tenders, Metal and Plastic,",
+   "value": "0.95"
+ },
+ {
+   "className": "Electrical and Electronic Equipment Assemblers,",
+   "value": "0.95"
+ },
+ {
+   "className": "Adhesive Bonding Machine Operators and Tenders,",
+   "value": "0.95"
+ },
+ {
+   "className": "Landscaping and Groundskeeping Workers,",
+   "value": "0.95"
+ },
+ {
+   "className": "Grinding, Lapping, Polishing,  and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic,",
+   "value": "0.95"
+ },
+ {
+   "className": "Postal Service Clerks,",
+   "value": "0.95"
+ },
+ {
+   "className": "Jewelers and Precious Stone and Metal Workers,",
+   "value": "0.95"
+ },
+ {
+   "className": "Dispatchers,  Except Police, Fire, and Ambulance,",
+   "value": "0.96"
+ },
+ {
+   "className": "Receptionists  and Information Clerks,",
+   "value": "0.96"
+ },
+ {
+   "className": "Office Clerks, General,",
+   "value": "0.96"
+ },
+ {
+   "className": "Compensation  and Benefits Managers,",
+   "value": "0.96"
+ },
+ {
+   "className": "Switchboard  Operators,  Including  Answering Service,",
+   "value": "0.96"
+ },
+ {
+   "className": "Counter  Attendants, Cafeteria,  Food Concession, and Coffee Shop,",
+   "value": "0.96"
+ },
+ {
+   "className": "Rock Splitters, Quarry,",
+   "value": "0.96"
+ },
+ {
+   "className": "Secretaries  and  Administrative Assistants, Except Legal, Medical,  and Executive,",
+   "value": "0.96"
+ },
+ {
+   "className": "Surveying  and Mapping Technicians,",
+   "value": "0.96"
+ },
+ {
+   "className": "Model Makers, Wood,",
+   "value": "0.96"
+ },
+ {
+   "className": "Textile Winding, Twisting, and Drawing  Out Machine Setters,  Opera- tors, and Tenders,",
+   "value": "0.96"
+ },
+ {
+   "className": "Locomotive Engineers,",
+   "value": "0.96"
+ },
+ {
+   "className": "Gaming  Dealers,",
+   "value": "0.96"
+ },
+ {
+   "className": "Fabric Menders, Except Garment,",
+   "value": "0.96"
+ },
+ {
+   "className": "Cooks, Restaurant,",
+   "value": "0.96"
+ },
+ {
+   "className": "Ushers, Lobby Attendants, and Ticket Takers,",
+   "value": "0.96"
+ },
+ {
+   "className": "Billing and Posting Clerks,",
+   "value": "0.96"
+ },
+ {
+   "className": "Bridge and Lock Tenders,",
+   "value": "0.97"
+ },
+ {
+   "className": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing,",
+   "value": "0.97"
+ },
+ {
+   "className": "Team Assemblers,",
+   "value": "0.97"
+ },
+ {
+   "className": "Shoe Machine Operators and Tenders,",
+   "value": "0.97"
+ },
+ {
+   "className": "Electromechanical Equipment  Assemblers,",
+   "value": "0.97"
+ },
+ {
+   "className": "Farm Labor Contractors,",
+   "value": "0.97"
+ },
+ {
+   "className": "Textile Bleaching and Dyeing Machine Operators and Tenders,",
+   "value": "0.97"
+ },
+ {
+   "className": "Dental Laboratory Technicians,",
+   "value": "0.97"
+ },
+ {
+   "className": "Crushing,  Grinding,  and  Polishing  Machine  Setters,  Operators,  and Tenders,",
+   "value": "0.97"
+ },
+ {
+   "className": "Grinding and Polishing Workers, Hand,",
+   "value": "0.97"
+ },
+ {
+   "className": "Pesticide Handlers, Sprayers, and Applicators, Vegetation,",
+   "value": "0.97"
+ },
+ {
+   "className": "Log Graders and Scalers,",
+   "value": "0.97"
+ },
+ {
+   "className": "Ophthalmic Laboratory Technicians,",
+   "value": "0.97"
+ },
+ {
+   "className": "Cashiers,",
+   "value": "0.97"
+ },
+ {
+   "className": "Camera and Photographic Equipment Repairers,",
+   "value": "0.97"
+ },
+ {
+   "className": "Motion Picture Projectionists,",
+   "value": "0.97"
+ },
+ {
+   "className": "Prepress Technicians and Workers,",
+   "value": "0.97"
+ },
+ {
+   "className": "Counter and Rental Clerks,",
+   "value": "0.97"
+ },
+ {
+   "className": "File Clerks,",
+   "value": "0.97"
+ },
+ {
+   "className": "Real Estate Brokers,",
+   "value": "0.97"
+ },
+ {
+   "className": "Telephone Operators,",
+   "value": "0.97"
+ },
+ {
+   "className": "Agricultural and Food Science Technicians,",
+   "value": "0.97"
+ },
+ {
+   "className": "Payroll and Timekeeping Clerks,",
+   "value": "0.97"
+ },
+ {
+   "className": "Credit Authorizers, Checkers, and Clerks,",
+   "value": "0.97"
+ },
+ {
+   "className": "Hosts and Hostesses, Restaurant,  Lounge, and Coffee Shop,",
+   "value": "0.97"
+ },
+ {
+   "className": "Models,",
+   "value": "0.98"
+ },
+ {
+   "className": "Inspectors, Testers, Sorters, Samplers, and Weighers,",
+   "value": "0.98"
+ },
+ {
+   "className": "Bookkeeping, Accounting, and Auditing Clerks,",
+   "value": "0.98"
+ },
+ {
+   "className": "Legal Secretaries,",
+   "value": "0.98"
+ },
+ {
+   "className": "Radio Operators,",
+   "value": "0.98"
+ },
+ {
+   "className": "Driver/Sales Workers,",
+   "value": "0.98"
+ },
+ {
+   "className": "Claims Adjusters, Examiners, and Investigators,",
+   "value": "0.98"
+ },
+ {
+   "className": "Parts Salespersons,",
+   "value": "0.98"
+ },
+ {
+   "className": "Credit Analysts,",
+   "value": "0.98"
+ },
+ {
+   "className": "Milling  and  Planing  Machine  Setters,  Operators,  and  Tenders,  Metal and Plastic,",
+   "value": "0.98"
+ },
+ {
+   "className": "Shipping,  Receiving, and Traffic Clerks,",
+   "value": "0.98"
+ },
+ {
+   "className": "Procurement Clerks,",
+   "value": "0.98"
+ },
+ {
+   "className": "Packaging and Filling Machine Operators and Tenders,",
+   "value": "0.98"
+ },
+ {
+   "className": "Etchers and Engravers,",
+   "value": "0.98"
+ },
+ {
+   "className": "Tellers,",
+   "value": "0.98"
+ },
+ {
+   "className": "Umpires, Referees, and Other Sports Officials,",
+   "value": "0.98"
+ },
+ {
+   "className": "Insurance  Appraisers, Auto Damage,",
+   "value": "0.98"
+ },
+ {
+   "className": "Loan Officers,",
+   "value": "0.98"
+ },
+ {
+   "className": "Order Clerks,",
+   "value": "0.98"
+ },
+ {
+   "className": "Brokerage  Clerks,",
+   "value": "0.98"
+ },
+ {
+   "className": "Insurance Claims and Policy Processing Clerks,",
+   "value": "0.98"
+ },
+ {
+   "className": "Tinring Device Assemblers and Adjusters,",
+   "value": "0.98"
+ },
+ {
+   "className": "Data Entry Keyers,",
+   "value": "0.99"
+ },
+ {
+   "className": "Library Technicians,",
+   "value": "0.99"
+ },
+ {
+   "className": "New Accounts Clerks,",
+   "value": "0.99"
+ },
+ {
+   "className": "Photographic  Process Workers and Processing Machine Operators,",
+   "value": "0.99"
+ },
+ {
+   "className": "Tax Preparers,",
+   "value": "0.99"
+ },
+ {
+   "className": "Cargo and Freight Agents,",
+   "value": "0.99"
+ },
+ {
+   "className": "Watch Repairers,",
+   "value": "0.99"
+ },
+ {
+   "className": "Insurance Underwriters,",
+   "value": "0.99"
+ },
+ {
+   "className": "Mathematical  Technicians,",
+   "value": "0.99"
+ },
+ {
+   "className": "Sewers, Hand,",
+   "value": "0.99"
+ },
+ {
+   "className": "Title Examiners, Abstractors, and Searchers,",
+   "value": "0.99"
+ },
+ {
+   "className": "Telemarketers,",
+   "value": "0.99"
+ }
+]
+}
