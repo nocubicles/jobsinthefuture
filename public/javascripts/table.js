@@ -1,23 +1,14 @@
 $(document).ready(function() {
-    $('#table').DataTable();
-
-
-    
-
-Papa.parse('/files/andmed_csv_ok.csv', {
-      header: true,
-      dynamicTyping: true,
-      complete: function(results) {
-      	console.log(results)
-        data = results;
-      }
-    });
-
-
-
-	} );
-
-
+    $('#table').DataTable( {
+        "processing": true,
+         responsive: true,
+        "ajax": "files/andmed_json.json",
+        "columns": [
+            { "data": "className" },
+            { "data": "value" }
+        ]
+    } );
+} );
 
 
 

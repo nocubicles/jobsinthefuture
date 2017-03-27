@@ -6,3 +6,10 @@ body {
 a {
   color: #00B7FF;
 }
+
+#chart,svg{width:660px;height:560px;background-color: #34495e;}
+
+@media (max-width: 600px) {
+#chart,svg{width:260px;height:260px;background-color: #34495e;}
+
+}
